@@ -1,11 +1,11 @@
 {
-  "name": "MyApp",
-  "short_name": "MyApp",
+  "name": "Jim",
+  "short_name": "Jim",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
-  "description": "MyApp.",
+  "description": "JIM.",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
